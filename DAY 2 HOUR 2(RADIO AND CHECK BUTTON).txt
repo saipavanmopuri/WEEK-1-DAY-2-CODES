@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <forms>
+        <label><input type="checkbox"/>pavan</label>
+        <label><input type="checkbox"/>sahil</label>
+        <label><input type="checkbox"/>stephen</label>
+        <label><input type="checkbox"/>steeves</label>
+        <label><input type="checkbox"/>prashanth</label>
+        <br>
+        <label><input type="radio"/>wipro</label>
+        <label><input type="radio"/>tcs</label>
+        <label><input type="radio"/>apple</label>
+        <label><input type="radio"/>amazon</label>
+        <label><input type="radio"/>coagnizant</label>
+    </forms>
+</body>
+</html>
